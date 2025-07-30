@@ -126,7 +126,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/1Tp1BBtJ7UFBeIwsZi8jFja3W8JLC1za8j6gTgqq9eWk/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.3j5k6l7m8n9o" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.9okguru552i3" target="_blank">Homework Doc</a>`,
         img:"imgs/ba.png"
     },
     "Data Structures":{
@@ -146,7 +146,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/17vdEZcCls7HwhwOkzjrdtqyjwtkGzCSFA2T171C4NSs/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.3j5k6l7m8n9o" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.dcbty2sshljp" target="_blank">Homework Doc</a>`,
         img:"imgs/ds.png"
     },
     "What Does This Program Do? - Arrays":{
@@ -159,7 +159,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/1vS-UPau86TBEy3EZwv_v7X6Mdr2C-0HBWiA-jC6Ccz8/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.dibg4z5whwg" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.k87iqqbzjgw9" target="_blank">Homework Doc</a>`,
         img:"imgs/wdtpda.png"
     },
 
@@ -181,7 +181,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/1b6cwYwaXvNIFtnWKGfHXlmCoY0kmi19e862TA0SExy0/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.dibg4z5whwg" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.d137eo1t3qua" target="_blank">Homework Doc</a>`,
         img:"imgs/gt.png"
     },
     "Digital Electronics":{
@@ -200,7 +200,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/1KlnaL3LgdIxep9iXJ9FWByk4K0s6uU4f-v68QfbRbwk/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.dibg4z5whwg" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.j2gnap2rwq2i" target="_blank">Homework Doc</a>`,
         img:"imgs/de.png"
     },
     "What Does This Program Do? - Strings":{
@@ -213,7 +213,7 @@ let lessonContents={
             <li><a href="https://docs.google.com/presentation/d/1NGUUtHK0TrIGwP0SNt__OJ0oWFHbIWaCj6duXHu0oks/edit?usp=sharing" target="_blank">SLIDES</a></li>
         </ul>
         `,
-        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.dibg4z5whwg" target="_blank">Homework Doc</a>`,
+        homework:`<a href="https://docs.google.com/document/d/1XCtOv9mBLgCGQPgAS4fUWqY4w7cgmKV1Bkk9keIbWGQ/edit?tab=t.0#heading=h.2g7clv1ustej" target="_blank">Homework Doc</a>`,
         img:"imgs/wdtpds.png"
     },
 }
