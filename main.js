@@ -3,21 +3,18 @@
 function switchAssignment(u,l){
   document.getElementById("assignmenttitle").innerHTML = `${u+1}.${l+1}: ${units[u][l]}`;
   document.getElementById("header").innerHTML = lessonContents[units[u][l]].header;
-  
+  document.getElementById("homework").innerHTML = lessonContents[units[u][l]].homework;
+  document.getElementById("exampleimg").src = lessonContents[units[u][l]].img;
+
+  /*
   if (lessonContents[units[u][l]].img){
     document.getElementById("img").src = lessonContents[units[u][l]].img;
     document.getElementById("img").style.display = "block";
   }else{
     document.getElementById("img").style.display = "none";
   }
-
-  if (lessonContents[units[u][l]].noExample){
-    document.getElementById("code").value = lessonContents[units[u][l]].code;
-  }else if (lessonContents[units[u][l]].code != ""){
-    document.getElementById("code").value = `###### EXAMPLE CODE #####\n`+lessonContents[units[u][l]].code+`\n\n###### WRITE YOUR CODE HERE #####\n`;
-  }else{
-    document.getElementById("code").value = `###### WRITE YOUR CODE HERE #####\n`;
-  }
+  */
+  
 }
 
 for (let unit in units){
@@ -25,7 +22,7 @@ for (let unit in units){
   let unitE = document.createElement("div")
   unitE.classList.add("unit")
 
-  unitE.appendChild(document.createTextNode(`Unit ${parseInt(unit)+1}: ${unitNames[unit]}`))
+  unitE.appendChild(document.createTextNode(`${unitNames[unit]}`))
 
   let lessons = document.createElement("ol")
   lessons.classList.add("lessons")

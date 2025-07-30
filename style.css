@@ -46,18 +46,22 @@
   }
 
   /* Middle: code editor */
-  #header{
+  .header{
     background: #2c3e50;
     color: #ecf0f1;
     padding: 20px;
     border-bottom: 2px solid #34495e;
     font-size: 1.6rem;
     line-height: 1.6;
-    max-height: 40%;
     overflow-y: auto;
   }
 
-  #header ul{
+  .header a{
+    color: #babaf6;
+    font-weight: 700;
+  }
+
+  .header ul{
     padding-left: 20px;
     line-height: 1.6;
   }
@@ -150,7 +154,14 @@
     flex-direction: column;
 
     align-items: center;
+    justify-content: space-around;
     overflow-x: auto;
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  #grid-container img{
+    border: 1px solid black
   }
   #grid {
     display: grid;
